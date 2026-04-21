@@ -6,4 +6,4 @@ Este proyecto contiene una función para calcular el promedio de un array de nú
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/isairey/prueva1.git

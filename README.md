@@ -32,4 +32,4 @@ Es ideal para comprender:
 Clona el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/isairey/prueva1.git
